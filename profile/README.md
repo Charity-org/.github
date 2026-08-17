@@ -2,8 +2,6 @@
 
 > A multilingual charity platform that connects public project discovery, donor accounts, donations and payment processing, favorites, dynamic content, and internal administration through a shared backend.
 
-**Production website:** https://nouralrahma.com/en
-
 Noor Elrahma is a multi-application platform rather than a single charity website.
 
 The organization is built around three connected products:
