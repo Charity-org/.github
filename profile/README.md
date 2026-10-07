@@ -14,6 +14,13 @@ A fourth repository contains cross-project engineering documentation and workflo
 
 The system is designed so public presentation and internal administration can evolve independently while still sharing one authoritative backend and database.
 
+
+<!-- PROJECT_BANNER_START -->
+<p align="center">
+  <img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791414970/ChatGPT_Image_Oct_8_2026_02_15_18_AM-5_rstf5k.png" alt="Noor Elrahma Project Banner" width="100%" />
+</p>
+<!-- PROJECT_BANNER_END -->
+
 ---
 
 ## Product Visual Preview
