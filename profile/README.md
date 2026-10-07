@@ -16,7 +16,52 @@ The system is designed so public presentation and internal administration can ev
 
 ---
 
+## Product Visual Preview
+
+The same approved Cloudinary assets used in the application repositories are shown here so reviewers can understand both sides of the platform directly from the organization profile.
+
+### Public Platform
+
+<table>
+  <tr>
+    <td width="50%"><strong>Homepage Hero</strong><br /><a href="https://github.com/Charity-org/noor_elrahma_platform"><img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791405351/01-noor-elrahma-public-home-hero_zazsy6.png" alt="Homepage Hero" /></a></td>
+    <td width="50%"><strong>Projects Listing</strong><br /><a href="https://github.com/Charity-org/noor_elrahma_platform"><img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791405351/02-noor-elrahma-public-projects-listing_vvg6u1.png" alt="Projects Listing" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>Project Detail</strong><br /><a href="https://github.com/Charity-org/noor_elrahma_platform"><img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791405351/03-noor-elrahma-public-project-detail_rmh5bd.png" alt="Project Detail" /></a></td>
+    <td width="50%"><strong>Donation Flow</strong><br /><a href="https://github.com/Charity-org/noor_elrahma_platform"><img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791405351/04-noor-elrahma-public-donation-flow_csifkh.png" alt="Donation Flow" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>About Us</strong><br /><a href="https://github.com/Charity-org/noor_elrahma_platform"><img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791405351/05-noor-elrahma-public-about-us_cnfpxt.png" alt="About Us" /></a></td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+### Administration Dashboard
+
+<table>
+  <tr>
+    <td width="50%"><strong>Dashboard Overview</strong><br /><a href="https://github.com/Charity-org/noor_elrahma_dahsbourd"><img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791405351/06-noor-elrahma-admin-dashboard-overview_bmwslw.png" alt="Dashboard Overview" /></a></td>
+    <td width="50%"><strong>Projects Management</strong><br /><a href="https://github.com/Charity-org/noor_elrahma_dahsbourd"><img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791405352/07-noor-elrahma-admin-projects-management_cdzlfc.png" alt="Projects Management" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>Donators</strong><br /><a href="https://github.com/Charity-org/noor_elrahma_dahsbourd"><img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791405352/08-noor-elrahma-admin-donators_pkwus3.png" alt="Donators" /></a></td>
+    <td width="50%"><strong>Home Content</strong><br /><a href="https://github.com/Charity-org/noor_elrahma_dahsbourd"><img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791405352/09-noor-elrahma-admin-home-content_h3hfsd.png" alt="Home Content" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>About Us Editor</strong><br /><a href="https://github.com/Charity-org/noor_elrahma_dahsbourd"><img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791405352/10-noor-elrahma-admin-about-us-editor_nupzra.png" alt="About Us Editor" /></a></td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+> The screenshots use sample content and are intended for portfolio/repository presentation. They do not expose authenticated production information.
+
+
+---
+
 ## Table of Contents
+
+- [Product Visual Preview](#product-visual-preview)
 
 - [What Noor Elrahma Is](#what-noor-elrahma-is)
 - [Platform Goals](#platform-goals)
